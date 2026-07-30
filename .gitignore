@@ -1,0 +1,6 @@
+node_modules
+dist
+scratch
+wedding_website.zip
+.DS_Store
+*.local
